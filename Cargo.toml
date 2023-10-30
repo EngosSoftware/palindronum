@@ -1,0 +1,11 @@
+[package]
+name = "palindronum"
+version = "1.0.0"
+authors = ["Dariusz Depta <wisbery@users.noreply.github.com>"]
+description = "Number palindromes"
+documentation = "https://docs.rs/palindronum"
+repository = "https://github.com/wisbery/palindronum.git"
+license = "MIT OR Apache-2.0"
+edition = "2021"
+
+[dependencies]
