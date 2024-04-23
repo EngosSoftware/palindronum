@@ -11,19 +11,19 @@
 
 [mit-url]: https://opensource.org/licenses/MIT
 
-[mit-license-url]: https://github.com/DariuszDepta/palindronum/blob/main/LICENSE-MIT
+[mit-license-url]: https://github.com/EngosSoftware/palindronum/blob/main/LICENSE-MIT
 
 [apache-badge]: https://img.shields.io/badge/License-Apache%202.0-blue.svg
 
 [apache-url]: https://www.apache.org/licenses/LICENSE-2.0
 
-[apache-license-url]: https://github.com/DariuszDepta/palindronum/blob/main/LICENSE
+[apache-license-url]: https://github.com/EngosSoftware/palindronum/blob/main/LICENSE
 
-[apache-notice-url]: https://github.com/DariuszDepta/palindronum/blob/main/NOTICE
+[apache-notice-url]: https://github.com/EngosSoftware/palindronum/blob/main/NOTICE
 
 [cc-badge]: https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg
 
-[cc-url]: https://github.com/DariuszDepta/palindronum/blob/main/CODE_OF_CONDUCT.md
+[cc-url]: https://github.com/EngosSoftware/palindronum/blob/main/CODE_OF_CONDUCT.md
 
 # Number palindromes
 
@@ -91,6 +91,6 @@ at your option.
 
 ## Contribution
 
-Any contributions to [palindronum](https://github.com/DariuszDepta/palindronum) are greatly appreciated.
+Any contributions to [palindronum](https://github.com/EngosSoftware/palindronum) are greatly appreciated.
 All contributions intentionally submitted for inclusion in the work by you,
 shall be dual licensed as above, without any additional terms or conditions.
